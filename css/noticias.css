@@ -1,0 +1,21 @@
+#noticia {
+    background-color: rgb(255, 255, 255);
+    height: 2400px;
+}
+
+.titulo-noticia {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+    border-bottom: 3px solid #ff005c; /* Color y grosor de la línea */
+}
+
+#pie-foto-news {
+    font-size: 15px;
+    margin: 2px;
+}
+
+#texto-noticia {
+    margin: 30px;
+    width: 70%;
+}
