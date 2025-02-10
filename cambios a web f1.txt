@@ -1,0 +1,9 @@
+cambio color header
+cambio emoji y nombre pagina arriba del todo
+cambio nombre menú desplegable
+cambio vdeo de fondo
+cambio fuente a la de la f1
+añadir ruta a RRSS de f1
+añadir next race
+añadir pagina de noticias creando 4 cuadrados  con noticias, fotos y fecha
+al pasar por encima de las noticias se agranda y aparece resumen 
