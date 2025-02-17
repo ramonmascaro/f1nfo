@@ -1052,3 +1052,38 @@ strong {
 #barraSup {
   background-color: #000000;
 }
+
+
+/* ============================= */
+/*  OPTIMIZACIÓN PARA DISPOSITIVOS MÓVILES */
+/* ============================= */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+    
+    .container {
+        width: 95%;
+        padding: 10px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .menu {
+        display: block;
+        text-align: center;
+    }
+
+    img, video {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .content {
+        flex-direction: column;
+        text-align: center;
+    }
+}
